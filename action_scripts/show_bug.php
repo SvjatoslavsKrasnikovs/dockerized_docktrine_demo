@@ -1,6 +1,6 @@
 <?php
 // show_bug.php <id>
-require_once "bootstrap.php";
+require_once "../bootstrap.php";
 
 $theBugId = $argv[1];
 

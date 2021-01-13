@@ -1,6 +1,6 @@
 <?php
 // dashboard.php <user-id>
-require_once "bootstrap.php";
+require_once "../bootstrap.php";
 
 $theUserId = $argv[1];
 

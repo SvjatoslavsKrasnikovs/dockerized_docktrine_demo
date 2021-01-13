@@ -1,6 +1,6 @@
 <?php
 // list_bugs_repository.php
-require_once "bootstrap.php";
+require_once "../bootstrap.php";
 
 $bugs = $entityManager->getRepository('Bug')->getRecentBugs();
 
