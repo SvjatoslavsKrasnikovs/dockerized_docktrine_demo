@@ -1,6 +1,6 @@
 <?php
 // create_bug.php <reporter-id> <engineer-id> <product-ids>
-require_once "../bootstrap.php";
+require_once "../docktrine.php";
 
 $reporterId = $argv[1];
 $engineerId = $argv[2];

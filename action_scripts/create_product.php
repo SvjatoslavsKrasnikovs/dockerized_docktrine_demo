@@ -1,6 +1,6 @@
 <?php
 // create_product.php <name>
-require_once "../bootstrap.php";
+require_once "../docktrine.php";
 
 $newProductName = $argv[1];
 

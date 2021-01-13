@@ -1,6 +1,6 @@
 <?php
 // create_user.php
-require_once "../bootstrap.php";
+require_once "../docktrine.php";
 
 $newUsername = $argv[1];
 

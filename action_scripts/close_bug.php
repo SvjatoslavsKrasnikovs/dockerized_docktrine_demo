@@ -1,6 +1,6 @@
 <?php
 // close_bug.php <bug-id>
-require_once "../bootstrap.php";
+require_once "../docktrine.php";
 
 $theBugId = $argv[1];
 
